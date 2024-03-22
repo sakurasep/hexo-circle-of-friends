@@ -23,7 +23,4 @@ OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
-  list:
-  - - "\u4E5D\u6708\u7684\u751F\u6D3B"
-    - https://hexo.sakurasep.site
-    - https://cdn.sakurasep.site/Website/new_avatar_256.png
+  list: []
